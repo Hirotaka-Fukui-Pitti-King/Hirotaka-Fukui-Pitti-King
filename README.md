@@ -1,8 +1,13 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-**Hirotaka-Fukui-Pitti-King/Hirotaka-Fukui-Pitti-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+My name is **Hirotaka Fukui**.
 
-Here are some ideas to get you started:
+I am a graduate student in Economics at
+<a href="https://www.econ.kobe-u.ac.jp/en/" target="_blank" rel="noopener noreferrer">
+Kobe University, Graduate School of Economics</a>.
+
+My research focuses on International Macroeconomics, Monetary Economics, Emerging and Developing Economies, with a particular emphasis on Sub-Saharan Africa.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
