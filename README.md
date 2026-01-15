@@ -7,8 +7,8 @@ I am a graduate student in Economics at
 <a href="https://www.econ.kobe-u.ac.jp/en/" target="_blank" rel="noopener noreferrer">
 Kobe University, Graduate School of Economics</a>.
 
-My research focuses on International Macroeconomics, Monetary Economics, Emerging and Developing Economies, with a particular emphasis on Sub-Saharan Africa.
+My research focuses on International Macroeconomics, Monetary Economics, and Macro-Finance.
 
-- 🔭 I’m currently working on macroeconomic research about the origins of macroeconomic fluctuation in African economies. 
+- 🔭 I’m currently working on macroeconomic research about the interaction between financial globalization, global financial cycles, and sovereign debt dynamics.
 - 🌱 I’m currently learning continuous-time macro-finance modeling.
 - ⚡ Fun fact: I support Real Madrid and I’m a fan of fromis_9.
