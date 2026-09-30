@@ -9,4 +9,4 @@ Kobe University, Graduate School of Economics</a>.
 
 My research focuses on International Macroeconomics, Monetary Economics, and Macro-Finance.
 
-- ⚡ Fun fact: I support Real Madrid and I’m a fan of fromis_9.
+⚡ Fun fact: I support Real Madrid and I’m a fan of fromis_9.
