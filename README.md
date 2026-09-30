@@ -9,6 +9,4 @@ Kobe University, Graduate School of Economics</a>.
 
 My research focuses on International Macroeconomics, Monetary Economics, and Macro-Finance.
 
-- 🔭 I’m currently working on macroeconomic research about the interaction between financial globalization, global financial cycles, and sovereign debt dynamics.
-- 🌱 I’m currently learning continuous-time macro-finance modeling.
 - ⚡ Fun fact: I support Real Madrid and I’m a fan of fromis_9.
